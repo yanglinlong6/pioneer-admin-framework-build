@@ -5,7 +5,7 @@
     <parent>
         <artifactId>pioneer-admin-framework-dependencies-parent</artifactId>
         <groupId>com.glsx</groupId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>${revision}</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -18,7 +18,6 @@
         <maven.compiler.target>8</maven.compiler.target>
         <fastjson.version>1.2.76</fastjson.version>
         <guava.version>22.0</guava.version>
-        <revision>1.0.0-SNAPSHOT</revision>
     </properties>
 
     <dependencyManagement>
