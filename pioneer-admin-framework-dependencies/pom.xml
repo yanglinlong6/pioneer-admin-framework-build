@@ -185,11 +185,11 @@
                 <artifactId>pioneer-admin-office</artifactId>
                 <version>${revision}</version>
             </dependency>
-            <dependency>
-                <groupId>com.glsx</groupId>
-                <artifactId>pioneer-admin-push</artifactId>
-                <version>${revision}</version>
-            </dependency>
+            <!--            <dependency>-->
+            <!--                <groupId>com.glsx</groupId>-->
+            <!--                <artifactId>pioneer-admin-push</artifactId>-->
+            <!--                <version>${revision}</version>-->
+            <!--            </dependency>-->
             <dependency>
                 <groupId>com.glsx</groupId>
                 <artifactId>pioneer-admin-quartz</artifactId>
